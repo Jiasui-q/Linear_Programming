@@ -1,2 +1,2 @@
 # Linear_Programming
-Three individual projects solving the knapsack problem, chess domination problem, and the dice game analysis using Lp solve.
+Three individual projects solving the knapsack problem, chess domination problem, and map coloring problem using Lp solve.
